@@ -1,8 +1,9 @@
 # myThesis
 Codes of My Thesis 
 
-Projenin çalışabilmesi için kodları bilgisayarınıza indirin.
+Projenin çalışabilmesi için kodları FE_CervicalCancer_PythonCode  Klasörünü bilgisayarınıza indirin.
 Ve Python içindeki çalışma klasörü olarak, ana klasör içerisindeki  " Code  " klasörünü seçin.
+( FE_CervicalCancer_PythonCode\Code  Klasörünü)
 Ve kodları çalıştırın.
 
 Klasörün seçileceği örnek ekran görüntüsü şu şekildedir :
